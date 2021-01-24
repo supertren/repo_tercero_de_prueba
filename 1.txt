@@ -1,0 +1,5 @@
+http://schemas.hp.com/SM/7/Common" xmlns:xmime="http://www.w3.org/2005/05/xmlmime" xmlns:xsd="http://w
+ww.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="ht
+tp://schemas.hp.com/SM/7 /Incident.xsd"><keys><IncidentID type="String">IM1915231</IncidentID></keys><
+/RetrieveIncidentKeysListResponse></SOAP-ENV:Body></SOAP-ENV:Envelope>
+
